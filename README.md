@@ -6,4 +6,7 @@ Code for the Git and GitHub Exercise
 •	{Name3} takes the role "Styler"
 
 add some copmment
-conflict
+
+add another comms
+code is not coding
+s
